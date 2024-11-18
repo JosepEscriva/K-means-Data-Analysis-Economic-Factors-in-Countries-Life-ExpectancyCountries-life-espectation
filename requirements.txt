@@ -1,7 +1,0 @@
-matplotlib==3.9.2
-matplotlib-inline @ file:///Users/ec2-user/ci_py311/matplotlib-inline_1678317544666/work
-numpy @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_b7iptlxgej/croot/numpy_and_numpy_base_1708638622773/work/dist/numpy-1.26.4-cp311-cp311-macosx_10_9_x86_64.whl#sha256=ca93246020dd5cf5864c57fea8d3b0afd6530b245222908737c7f434a105fdc2
-pandas @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f3c5inakly/croot/pandas_1718308972943/work/dist/pandas-2.2.2-cp311-cp311-macosx_10_15_x86_64.whl#sha256=b0a3da9b3c56b4738820f67ec891e7b0e38e29cf7df56efa417f584270ef0e79
-geopandas @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_6dufv51c9u/croot/geopandas-split_1704929005080/work
-scikit-learn @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_85eaew31xa/croot/scikit-learn_1721921878410/work
-seaborn==0.13.2

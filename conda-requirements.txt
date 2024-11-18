@@ -1,0 +1,16 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+
+conda=24.9.2=py311hecd8cb5_0
+folium=0.14.0=py311hecd8cb5_0
+geopandas=0.14.2=py311hecd8cb5_0
+geopandas-base=0.14.2=py311hecd8cb5_0
+matplotlib=3.9.2=py311hecd8cb5_0
+matplotlib-base=3.9.2=py311hc25a08b_0
+matplotlib-inline=0.1.6=py311hecd8cb5_0
+numpy=1.26.4=py311h91b6869_0
+numpy-base=1.26.4=py311hb3ec012_0
+pandas=2.2.2=py311he327ffe_0
+scikit-learn=1.5.1=py311he327ffe_0
+seaborn=0.13.2=py311hecd8cb5_0
