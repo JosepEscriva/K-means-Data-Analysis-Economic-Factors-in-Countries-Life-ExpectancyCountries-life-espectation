@@ -4,5 +4,12 @@
 
 2. Make sure the data is available:
 - Place `Country-data.csv` in the `data/` directory if not already present.
+- Install conda-requirements.txt
 
-3. Run the notebook or script:
+
+```bash
+while read requirement; do conda install -y $requirement; done < conda-requirements.txt
+```
+
+3. Run the notebook and interact with the map:
+
