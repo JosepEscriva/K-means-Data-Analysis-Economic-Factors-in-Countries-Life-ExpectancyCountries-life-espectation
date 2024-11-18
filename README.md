@@ -12,4 +12,6 @@ while read requirement; do conda install -y $requirement; done < conda-requireme
 ```
 
 3. Run the notebook and interact with the map:
-
+## Clustered Countries Map
+![Clustered Countries Map](notebooks/clustered_countries_map.png)
+This is a snapshot!
