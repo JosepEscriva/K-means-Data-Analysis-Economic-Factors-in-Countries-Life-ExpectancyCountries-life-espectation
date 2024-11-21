@@ -56,12 +56,20 @@ This project exemplifies a solid grasp of data analysis, clustering techniques, 
 
 ### Access the Jupyter Notebook
 
-[Click here to view the notebook](notebooks/countries-life-expectancy-k-means-clustering.ipynb)
+[Click here to view the notebook](resources/countries-life-expectancy-k-means-clustering.ipynb)
 
-### Clustered Countries Map
+### Some visualisations on the report
+#### Showing regression in a scatter plot
+![Regression scatter plot](resources/Scatter_plot_regression.png)
+We can observe that countries with the highest income tend to have more health investments and better life expectancy. However, there are cases where countries with higher income have less health investment than those with lower income. Similarly, some countries with high income might have poorer life expectancy compared to those with lower income and health investment. It’s somewhat confusing!
 
-![Clustered Countries Map](notebooks/clustered_countries_map.png)
-*Please note, this is a screenshot! For quick interactivity with the map, you can visit my [Kaggle](https://www.kaggle.com/code/josepescrivasavall/k-mean-data-analysis-economic-factors-in-countrie/edit#5.-What/where-are-this-countries?-Mapping-the-life-expectacy-in-world-countries) repository.*
+#### Unsupervised K7 Clusters scatter plot
+![Clustered Scatter Plot by K-means](resources/Clustered_Scatter_Plot.png)
+Notice the difference in insights. Our clusters simplify global understanding by revealing similarities and differences between countries.
+
+#### Wich and were are those clustered countries?
+![Clustered Countries Map](resources/clustered_countries_map.png)
+*Please note, this is a screenshot! For quick interactivity with the map, you can visit my [Kaggle](https://www.kaggle.com/code/josepescrivasavall/k-mean-data-analysis-economic-factors-in-countrie/edit#5.-What/where-are-this-countries?-Mapping-the-life-expectacy-in-world-countries) repository, and, of course, you can download the entire project to run it in your local environment.
 
 ### LinkedIn
 
